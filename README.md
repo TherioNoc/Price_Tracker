@@ -3,4 +3,8 @@ A simple python code that fetches and tracks the real-time prices of various cry
 
 
 Before executing you need to install 2 libs.
+'''
+pip install requests
+pip install time
+'''
 
