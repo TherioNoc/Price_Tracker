@@ -2,7 +2,7 @@
 A simple python code that fetches and tracks the real-time prices of various cryptocurrencies.
 
     
-Please note that before executing the code you need to install 2 libraries. You can install with the following commands:
+Please note that before executing the code you need to install 2 libraries. You can install with the following python commands:
 
 ``` bash
 pip install requests
