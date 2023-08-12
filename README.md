@@ -9,7 +9,7 @@ __Note:__ Before executing the code you need to install 2 libraries. You can ins
 pip install requests
 ```
 
-``` bash
+```
 pip install time
 ```
 
