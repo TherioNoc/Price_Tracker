@@ -22,5 +22,5 @@ def price_tracker(crypto, interval):
             display_price(crypto, price)
         time.sleep(interval)
 
-# Example usage: Tracking the price of Bitcoin (BTC) every 10 seconds :
+# Example usage: Tracking the price of Bitcoin (BTC) every 10 seconds ::
 price_tracker("bitcoin", 10)
