@@ -1,6 +1,6 @@
 # Price Tracker
 
-A simple python code that fetches and tracks the real-time prices of various cryptocurrencies...
+A simple python code that fetches and tracks the real-time prices of various cryptocurrencies.
 
     
 __Note:__ Before executing the code you need to install 2 libraries. You can install with the following python commands:
